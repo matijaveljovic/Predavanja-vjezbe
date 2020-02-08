@@ -1,0 +1,15 @@
+
+ul li{
+    display: inline;
+    margin: 50px;
+
+}
+.absolute{
+    position: absolute;
+    top: 0px;
+    width: 200px;
+    height: 200px;
+    background: red;
+    z-index: 0;
+
+}
